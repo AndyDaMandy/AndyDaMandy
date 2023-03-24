@@ -6,6 +6,6 @@
 - How to reach me ... Feel free to reach out to me via email at maldonado.andy.m@gmail.com.
 
 You can check out my site here:
-https://www.andydamandy-blog.fly.dev
+https://andydamandy-blog.fly.dev
 
 I post all of my content there. I'm not a huge social media user and don't post very often, but I'm hoping to meet new people and be more actively engaged with communities.
