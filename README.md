@@ -1,7 +1,7 @@
 - Hi, I’m @AndyDaMandy
-- My specialities include: Ruby on Rails, HTML/CSS/JavaScript, React, and various CSS frameworks.
+- My specialities include: Ruby, Ruby on Rails, HTML/CSS/JavaScript, React, and various CSS frameworks. I know a bit of Python as well.
 - I’m interested in ...Coding, Coffee, Art, Books, Language Learning, and Cooking!
-- I’m currently learning ... Ruby on Rails, Full Stack Development, and lately Rust and game development with Dragonruby
+- I’m currently learning ... Rust and game development with Dragonruby.
 - I’m looking to collaborate on ... FOSS projects.
 - How to reach me ... Feel free to reach out to me via email at maldonado.andy.m@gmail.com.
 
