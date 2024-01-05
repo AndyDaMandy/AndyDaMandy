@@ -1,11 +1,6 @@
-- Hi, I’m @AndyDaMandy
-- My specialities include: Ruby, Ruby on Rails, HTML/CSS/JavaScript, React, and various CSS frameworks. I know a bit of Python as well.
-- I’m interested in ...Coding, Coffee, Art, Books, Language Learning, and Cooking!
-- I’m currently learning ... Rust and game development with Dragonruby.
-- I’m looking to collaborate on ... FOSS projects.
-- How to reach me ... Feel free to reach out to me via email at maldonado.andy.m@gmail.com.
+My specialities include: Ruby, Ruby on Rails, HTML/CSS/JavaScript, React, and various CSS frameworks. I know a bit of Python and Rust as well.
 
-You can check out my site here:
+You can check out my site and blog here:
 https://andresmaldonado.art
 
-I post all of my content there. I'm not a huge social media user and don't post very often, but I'm hoping to meet new people and be more actively engaged with communities.
+I cross-post onto Medium and Substack as well.
